@@ -2,6 +2,7 @@
   "name": "learn-vs-code",
   "displayName": "learn-vs-code",
   "description": "learn vs code ",
+  "publisher": "lutif",
   "version": "0.0.1",
   "repository": {
     "type": "git",
