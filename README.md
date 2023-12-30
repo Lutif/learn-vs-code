@@ -7,5 +7,5 @@ This extension "learn-vs-code" helps users learn Visual Studio Code shortcuts. I
 - Shows a random VS Code shortcut in an information message.
 - Allows users to mark shortcuts as learned.
 - Remembers which shortcuts have been marked as learned across sessions.
+- clear cache command to clear the learned shortcuts.
 
-![Learn VS Code Shortcuts in action](images/feature-x.png)
