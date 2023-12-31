@@ -1,12 +1,13 @@
 {
   "name": "learn-vs-code",
-  "displayName": "learn-vs-code",
-  "description": "learn vs code ",
+  "displayName": "VS Code Shortcuts",
+  "description": "Helps you learn VS Code shortcuts",
   "publisher": "lutif",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repository.git"
+    "url": "https://github.com/Lutif/learn-vs-code"
   },
   "engines": {
     "vscode": "^1.85.0"
